@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Certified Adaptive Compression for False Discovery Rate Control over Networks"
+authors:
+  - family-names: Pournaderi
+    given-names: Mehrdad
+    affiliation: Mofid Securities
+    email: m.pournaderi@emofid.com
+year: 2026
+license: MIT

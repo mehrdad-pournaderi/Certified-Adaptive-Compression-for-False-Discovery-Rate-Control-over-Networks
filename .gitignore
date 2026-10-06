@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+output/
